@@ -27,5 +27,4 @@ class School
       @roster[grade] = student.sort
     end
   end
-binding.pry
 end 
